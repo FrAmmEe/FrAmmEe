@@ -2,7 +2,7 @@
 
 # FrAmmEe
 
-<img src="https://skillicons.dev/icons?i=cs,js,java,html,css,ts, react, idea, kali, vscode, visualstudio" />
+<img src="https://skillicons.dev/icons?i=cs,js,java,html,css,ts,react,idea,kali,vscode,visualstudio" />
 
 <br><br>
 
