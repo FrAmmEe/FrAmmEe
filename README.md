@@ -1,12 +1,12 @@
 <div align="center">
 
-# FrAmmEe
+# FrAmmEe 
 
-<img src="https://skillicons.dev/icons?i=cs,js,java,html,css,ts,react,idea,kali,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cs,js,java,html,css,ts,react,idea,neovim,vscode,visualstudio" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FrAmmEe&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="200"/>
+<img src="https://github-readme-stats.shion.dev/api?username=FrAmmEe&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="200"/>
 
 <br>
 
